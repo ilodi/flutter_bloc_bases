@@ -39,7 +39,6 @@ class _HomePageState extends State<HomePage> {
               ),
               CounterLabel(),
             ],
-
           ),
         ),
         floatingActionButton: Row(
